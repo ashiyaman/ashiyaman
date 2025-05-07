@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashiya Banu</h1>
+<h3 align="center">Frontend Developer | Lifelong Learner | Tech Enthusiast</h3>
 
-<!--
-**ashiyaman/ashiyaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer;JavaScript%20Fan;Always%20learning%20new%20things!" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashiya-amanulla/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:ashiya1005@example.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://portfolio-ashiya.vercel.app/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=webflow" /></a>
+</p>
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,github,mongodb,postman,vscode,express,nodejs" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiyaman&show_icons=true&theme=radical" alt="Ashiya's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiyaman&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiyaman&layout=compact&theme=radical" />
+</p>
+
+---
+
+
+
