@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashiya-amanulla/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ashiya1005@example.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://portfolio-ashiya.vercel.app/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=webflow" /></a>
+  <a href="https://ashiyaman.vercel.app/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=webflow" /></a>
 </p>
 
 ---
